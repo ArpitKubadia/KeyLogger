@@ -1,0 +1,1 @@
+[SHIFT][CONTROL][ESCAPE]This is the keylogger logging my keystrokes when I am just hitting keys on desktop
